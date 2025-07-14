@@ -1,4 +1,4 @@
-# README for TalentScout AI Hiring Assistant
+# README for AI Hiring Assistant
 
 ## 📌 Project Overview
 An AI-powered hiring assistant chatbot built using **Gemini Pro API** and **Streamlit**. It collects candidate details, generates tailored technical questions based on the provided tech stack, and maintains an interactive conversation flow.
@@ -84,4 +84,4 @@ This project is scalable for real-world recruitment applications, offering custo
 
 ---
 
-For queries or contributions, contact: **your_email@example.com**
+For queries or contributions, contact: **sourabhsinghal22122002@gmail.com**
